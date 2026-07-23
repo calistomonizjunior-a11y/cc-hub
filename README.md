@@ -1,10 +1,10 @@
-# 🎬 PopCorn & Beats (Substitua pelo nome do seu site)
+# PopCorn & Beats (Substitua pelo nome do seu site)
 
 > Um site de atualizações em tempo real sobre o mundo dos filmes, músicas e jogos.
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto é uma plataforma web criada para centralizar as últimas novidades da cultura pop. O site exibe notícias recentes, lançamentos de álbuns, trailers de filmes e análises de jogos eletrónicos, tudo de forma rápida e intuitiva.
 
@@ -16,7 +16,7 @@ Este projeto é uma plataforma web criada para centralizar as últimas novidades
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 O projeto foi construído utilizando as seguintes ferramentas:
 
@@ -33,12 +33,12 @@ Siga os passos abaixo para rodar o site localmente no seu computador:
 
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/calistomonizjunior-a11y/cc-hub/commits?author=calistomonizjunior-a11y
    ```
 
 2. **Entrar na pasta do projeto:**
    ```bash
-   cd nome-do-repositorio
+   cd https://github.com/calistomonizjunior-a11y/cc-hub/commits?author=calistomonizjunior-a11y
    ```
 
 3. **Instalar as dependências** *(caso utilize Node/React)*:**
@@ -50,11 +50,11 @@ Siga os passos abaixo para rodar o site localmente no seu computador:
    ```bash
    npm start
    ```
-   *(Abra o navegador em `http://localhost:3000` para ver o resultado)*
+   *(Abra o navegador em `https://github.com/calistomonizjunior-a11y/cc-hub/commits?author=calistomonizjunior-a11y` para ver o resultado)*
 
 ---
 
-## 🤝 Como Contribuir
+## Como Contribuir
 
 Contribuições são sempre muito bem-vindas!
 1. Faça um **Fork** do projeto.
@@ -65,7 +65,7 @@ Contribuições são sempre muito bem-vindas!
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
